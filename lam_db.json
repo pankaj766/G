@@ -1,7 +1,15 @@
 {
-  "users": {},
+  "users": {
+    "MAX": {
+      "pw_hash": "02023546b4039abe3b9f355c23dafd9119570f301a024e2fd2ff3186ae54060c",
+      "file_limit": 5,
+      "is_banned": false,
+      "joined_at": "2026-07-04T05:52:43.935503",
+      "last_seen": "2026-07-04T05:52:43.937682"
+    }
+  },
   "settings": {
     "default_file_limit": 5,
-    "allow_register": false
+    "allow_register": true
   }
 }
